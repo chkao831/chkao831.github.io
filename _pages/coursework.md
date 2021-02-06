@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Stanford University
+### M.S. in Computational and Mathematical Engineering
 [All course descriptions could be found at Stanford Bulletin](https://explorecourses.stanford.edu)
 > 2020-21
 * **CME 241** Reinforcement Learning for Stochastic Control Problems in Finance *[In Progress]* <br> 
@@ -28,6 +29,8 @@ author_profile: true
 * **MS&E 448** Big Financial Data and Algorithmic Trading <br>
 
 ## University of California San Diego
+### B.S. in Applied Mathematics
+### B.S. in Management Science (Quantitative Economics)
 [All course descriptions could be found at UCSD General Catalog](https://catalog.ucsd.edu/front/courses.html)
 
 > 2018-19 <br>
