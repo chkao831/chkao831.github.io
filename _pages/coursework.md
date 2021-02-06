@@ -7,12 +7,29 @@ author_profile: true
 ---
 
 ## Stanford University
+[All course descriptions could be found at Stanford Bulletin](https://explorecourses.stanford.edu)
 > 2020-21
+* **CME 241** Reinforcement Learning for Stochastic Control Problems in Finance *[In Progress]* <br> 
+* **CME 303** Partial Differential Equations of Applied Mathematics <br>
+* **CS 224N** Natural Language Processing with Deep Learning *[In Progress]* <br>
+* **CS 230** Deep Learning <br>
+* **STATS 207** Introduction to Time Series Analysis <br>
+* **MS&E 349** Financial Statistics *[In Progress]* <br> 
 
 > 2019-20
-
+* **CME 211** Software Development for Scientists and Engineers <br>
+* **CME 212** Advanced Software Development for Scientists and Engineers <br>
+* **CME 302** Numerical Linear Algebra <br>
+* **CME 308** Stochastic Methods in Engineering <br>
+* **CME 323** Distributed Algorithms and Optimization <br>
+* **CME 364A** Convex Optimization I  <br>
+* **MATH 238** Mathematical Finance <br>
+* **STATS 240** Statistical Methods in Finance <br>
+* **MS&E 448** Big Financial Data and Algorithmic Trading <br>
 
 ## University of California San Diego
+[All course descriptions could be found at UCSD General Catalog](https://catalog.ucsd.edu/front/courses.html)
+
 > 2018-19 <br>
 * **LIGN 167** Deep Learning for Natural Language Understanding <br>
 * **MATH 20E** Vector Calculus <br>
