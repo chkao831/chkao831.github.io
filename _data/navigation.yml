@@ -5,7 +5,7 @@ main:
     url: /cv/
 
   - title: "Coursework"
-    url: /talks/      
+    url: /coursework/      
     
   - title: "Portfolio"
     url: /portfolio/
@@ -17,4 +17,4 @@ main:
     url: /year-archive/
     
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
