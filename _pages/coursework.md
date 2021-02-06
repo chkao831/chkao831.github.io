@@ -29,8 +29,7 @@ author_profile: true
 * **MS&E 448** Big Financial Data and Algorithmic Trading <br>
 
 ## University of California San Diego
-### B.S. in Applied Mathematics
-### B.S. in Management Science (Quantitative Economics)
+### B.S. in Applied Mathematics / B.S. in Management Science (Quantitative Economics)
 [All course descriptions could be found at UCSD General Catalog](https://catalog.ucsd.edu/front/courses.html)
 
 > 2018-19 <br>
