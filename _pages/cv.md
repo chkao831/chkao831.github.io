@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://github.com/chkao831/chkao831.github.io/blob/master/files/CV_Kao%2C%20Carolyn_Feb2021.pdf)
+[Download CV here](chkao831.github.io/files/CV_Kao%2C%20Carolyn_Feb2021.pdf)
