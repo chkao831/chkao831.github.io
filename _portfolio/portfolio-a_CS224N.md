@@ -6,4 +6,4 @@ collection: portfolio
 
 ### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/WI21_Natural-Language-Processing-with-Deep-Learning_StanfordCS224N)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
