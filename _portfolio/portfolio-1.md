@@ -1,6 +1,6 @@
 ---
 title: "Java Programming I"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/1_CSE8A.jpg'>"
+excerpt: "some description<br/><img src='/images/1_CSE8A.jpg' width="500" height="300">"
 collection: portfolio
 ---
 
