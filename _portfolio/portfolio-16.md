@@ -1,6 +1,6 @@
 ---
 title: "【Winter 2018】Java Programming II"
-excerpt: "Hands-on Programming Assignments (PAs) with designing, writing, hand-tracing, compiling or interpreting, executing, testing, and debugging Java programs. <br/><img src='/images/16_cse8b_resized.png'>"
+excerpt: "Hands-on Programming Assignments (PAs) with designing, writing, hand-tracing, compiling or interpreting, executing, testing, and debugging Java programs. <br/><img src='/images/16_cse8b_cropped.png'>"
 collection: portfolio
 ---
 
