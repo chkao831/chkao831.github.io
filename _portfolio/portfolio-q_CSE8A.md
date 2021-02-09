@@ -4,5 +4,4 @@ excerpt: "Hands-on Programming Assignments (PAs) with designing, writing, hand-t
 collection: portfolio
 ---
 
-
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
