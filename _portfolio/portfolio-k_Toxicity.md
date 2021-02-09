@@ -4,7 +4,7 @@ excerpt: "Implementatoin of a multi-headed NLP model that’s capable of detecti
 collection: portfolio
 ---
 
-### This is a team project of an NLP course (LIGN 167) at UCSD. 
+### This is a final group project of LIGN 167: Deep Learning for Natural Language Understanding at UCSD. 
 
 ### [Our project report and codes are available at GitHub.](https://github.com/chkao831/FA18_NLP-Classifying-Toxicity-in-Wikipedia-Comments_UCSDLIGN167)
 
