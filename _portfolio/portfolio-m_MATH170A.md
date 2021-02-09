@@ -4,6 +4,6 @@ excerpt: "Analysis of numerical methods for linear algebraic systems. Orthogonal
 collection: portfolio
 ---
 
-### [Some selected MATLAB codes are available at GitHub](https://github.com/chkao831/FA18_Introduction-to-Numerical-Analysis_UCSDMATH170A)
+### [Selected MATLAB codes are available at GitHub.](https://github.com/chkao831/FA18_Introduction-to-Numerical-Analysis_UCSDMATH170A)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
