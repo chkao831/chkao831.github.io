@@ -4,6 +4,6 @@ excerpt: "Signal Generation, Factor Models and Pairs-Trading, Empirical Correlat
 collection: portfolio
 ---
 
-### [Selected problems in Financial Mathematics with corresponding R/Python codes are available at GitHub](https://github.com/chkao831/WI20_Mathematical-Finance_StanfordMATH238)
+### [Selected problems in Financial Mathematics with corresponding R/Python codes are available at GitHub.](https://github.com/chkao831/WI20_Mathematical-Finance_StanfordMATH238)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
