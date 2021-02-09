@@ -4,6 +4,6 @@ excerpt: "This paper investigates the extent to which latency arbitrage opportun
 collection: portfolio
 ---
 
-### This is a team finalproject of MS&E 448: Big Financial Data and Algorithmic Trading at Stanford. 
+### This is a team final project of MS&E 448: Big Financial Data and Algorithmic Trading at Stanford. 
 
 ### [Our project report and codes are available at GitHub.](https://github.com/chkao831/SP20_Forex-Trading-Final-Project_StanfordMSE448)
