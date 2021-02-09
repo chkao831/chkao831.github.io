@@ -4,6 +4,6 @@ excerpt: "Use and implementation of basic data structures including linked lists
 collection: portfolio
 ---
 
-### [Assignment prompts with corresponding codes & writeup at GitHub](https://github.com/chkao831/SP18_Data-Structure-in-Java_UCSDCSE12)
+### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/SP18_Data-Structure-in-Java_UCSDCSE12)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
