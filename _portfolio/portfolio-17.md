@@ -1,6 +1,6 @@
 ---
 title: "【Fall 2018】Java Programming I"
-excerpt: "Some descriptions <br/><img src='/images/_17_cse8a.jpg'>"
+excerpt: "Some descriptionsss <br/><img src='/images/17_cse8a.jpg'>"
 collection: portfolio
 ---
 
