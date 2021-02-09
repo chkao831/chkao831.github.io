@@ -1,6 +1,6 @@
 ---
 title: "【Fall 2020】Artistic Style Generator Using CycleGAN and VGG19"
-excerpt: "This paper uses Deep Learning approaches to map from dataset Vincent Van Gogh to dataset real photo in the respect of artistic style and content.  <br/><img src='/images/2_cs230vg.png'>"
+excerpt: "Our team uses Deep Learning approaches to map from dataset Vincent Van Gogh to dataset real photo in the respect of artistic style and content.  <br/><img src='/images/2_cs230vg.png'>"
 collection: portfolio
 ---
 
