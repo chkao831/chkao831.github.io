@@ -4,8 +4,6 @@ excerpt: "Basic neural network architectures and optimization through backpropag
 collection: portfolio
 ---
 
+### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/FA18_NLP-Deep-Learning-for-Natural-Language-Understanding_UCSDLIGN167)
 
-
-### [Assignment prompts with corresponding codes & writeup at GitHub](https://github.com/chkao831/FA18_NLP-Deep-Learning-for-Natural-Language-Understanding_UCSDLIGN167)
-
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
