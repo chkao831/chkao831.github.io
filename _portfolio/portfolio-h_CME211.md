@@ -4,6 +4,6 @@ excerpt: "Hands-on Programming Assignments (PAs) in Python and C/C++ with design
 collection: portfolio
 ---
 
-### [Assignment prompts with corresponding codes & writeups are available at GitHub](https://github.com/chkao831/FA19_Software-Development-for-Scientists-and-Engineers_StanfordCME211)
+### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/FA19_Software-Development-for-Scientists-and-Engineers_StanfordCME211)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
