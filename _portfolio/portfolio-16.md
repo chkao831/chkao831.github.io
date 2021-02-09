@@ -1,7 +1,9 @@
 ---
 title: "【Winter 2018】Java Programming II"
-excerpt: "Some description <br/><img src='/images/16_cse8b.png'>"
+excerpt: "Hands-on Programming Assignments (PAs) with designing, writing, hand-tracing, compiling or interpreting, executing, testing, and debugging Java programs. <br/><img src='/images/16_cse8b.png'>"
 collection: portfolio
 ---
 
-WI 18 at UCSD
+[Assignment prompts with corresponding codes/writeup at GitHub](https://github.com/chkao831/WI18_Programming-in-Java-II_UCSDCSE8B)
+
+More details are expected to be added at this section later.
