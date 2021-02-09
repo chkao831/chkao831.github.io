@@ -4,6 +4,6 @@ excerpt: "This paper uses Deep Learning approaches to map from dataset Vincent V
 collection: portfolio
 ---
 
-### This is a team final project of CS 230: Deep Learning at Stanford. 
+### This is a final group project of CS 230: Deep Learning at Stanford. 
 
 ### [Our project report and codes are available at GitHub.](https://github.com/chkao831/FA20_DL-Paint-Like-Vincent-VanGogh_StanfordCS230)
