@@ -4,6 +4,6 @@ excerpt: "Hands-on Programming Assignments (PAs) in C/C++ with designing, writin
 collection: portfolio
 ---
 
-### [Assignment prompts with corresponding codes & writeups are available at GitHub](https://github.com/chkao831/WI20_Advanced-Programming-for-Scientists-and-Engineers_StanfordCME212)
+### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/WI20_Advanced-Programming-for-Scientists-and-Engineers_StanfordCME212)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
