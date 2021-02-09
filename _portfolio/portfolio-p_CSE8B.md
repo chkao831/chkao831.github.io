@@ -4,6 +4,6 @@ excerpt: "Hands-on Programming Assignments (PAs) with designing, writing, hand-t
 collection: portfolio
 ---
 
-### [Assignment prompts with corresponding codes/writeup at GitHub](https://github.com/chkao831/WI18_Programming-in-Java-II_UCSDCSE8B)
+### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/WI18_Programming-in-Java-II_UCSDCSE8B)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
