@@ -1,6 +1,6 @@
 ---
 title: "【Fall 2018】Java Programming I"
-excerpt: "Programming Assignments in the practice of computer science in Java are showcased.<br/><img src='/images/1_cse8a.jpg'>"
+excerpt: "Some description <br/><img src='/images/_1_cs224n.png'>"
 collection: portfolio
 ---
 
