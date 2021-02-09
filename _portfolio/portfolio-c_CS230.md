@@ -4,4 +4,4 @@ excerpt: "Neural Networks, Convolutional Neural Networks, Sequence Models and mo
 collection: portfolio
 ---
 
-### More details, including weekly coding assignments in Python and TensorFlow, are expected to be added in this section later.
+### More details, including weekly coding assignments in Python and TensorFlow, are expected to be added to this section later.
