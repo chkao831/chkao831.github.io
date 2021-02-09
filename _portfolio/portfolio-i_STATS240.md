@@ -4,6 +4,6 @@ excerpt: "Investment models, principal components analysis, likelihood inference
 collection: portfolio
 ---
 
-### [Assignment prompts with corresponding R codes & writeup are available at GitHub.](https://github.com/chkao831/FA19_Statistical-Methods-in-Finance_StanfordSTATS240)
+### [Assignment prompts with corresponding R codes & writeups are available at GitHub.](https://github.com/chkao831/FA19_Statistical-Methods-in-Finance_StanfordSTATS240)
 
-More details are expected to be added in this section later.
+More details are expected to be added to this section later.
