@@ -16,12 +16,11 @@ collection: portfolio
 
 ## PSA3: [Modifying Pictures](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/Prompt_CSE8A/psa3-modifyinge2808b-e2808bpictures.pdf)
 
-#### 
 ![](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/demo_resized_CSE8A/psa3_bear.png?raw=true)
 
 ## PSA4: [Transforming Pictures](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/Prompt_CSE8A/psa4-e2808btransforminge2808b-e2808bpictures.pdf)
 
-### Original Image (Upper) vs. Transformed Image
+### Original Image (Upper) vs. Transformed Image (Lower)
 ![](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/demo_resized_CSE8A/psa4_imageflipping.png?raw=true)
 ### Extra Credit
 ![](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/demo_resized_CSE8A/psa4_extracredit.png?raw=true)
