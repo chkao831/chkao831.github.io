@@ -12,5 +12,5 @@ collection: portfolio
 
 ## PSA2: [Turtle Loops and Sleepwalking Student](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/Prompt_CSE8A/psa2-turtle-loops-and-sleepwalking-student.pdf)
 
-![](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/tree/main/demo_resized_CSE8A/psa2_turtlerun.png)
+![](https://github.com/chkao831/FA17_Programming-in-Java-I_UCSDCSE8A/blob/main/demo_resized_CSE8A/psa2_turtlerun.png?raw=true)
 
