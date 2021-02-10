@@ -6,5 +6,6 @@ collection: portfolio
 
 ### This is a final group project of LIGN 167: Deep Learning for Natural Language Understanding at UCSD. 
 
-### [Our project report and codes are available at GitHub.](https://github.com/chkao831/FA18_NLP-Classifying-Toxicity-in-Wikipedia-Comments_UCSDLIGN167)
+### [Link to the Final Project Report.](https://github.com/chkao831/FA18_NLP-Classifying-Toxicity-in-Wikipedia-Comments_UCSDLIGN167/blob/master/Project%20Paper.pdf)
+### [Our project codes are also available on GitHub.](https://github.com/chkao831/FA18_NLP-Classifying-Toxicity-in-Wikipedia-Comments_UCSDLIGN167)
 
