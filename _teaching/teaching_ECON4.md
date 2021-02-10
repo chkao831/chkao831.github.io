@@ -12,3 +12,6 @@ In Fall 2017, I served as the Lead TA for [ECON 4 (Financial Accounting)](https:
 
 
 <img src='/images/ECON4Collegues.jpg' width="400">
+
+[✍ Link to Students' Evaluation Report](https://nbviewer.jupyter.org/github/chkao831/FA17-WI18-FA20_TA-Evaluation-Results_UCSD-Stanford/blob/master/Kao_Chih-Hsuan_Student_IA_Evaluation_-_ECON_4_-_Financial_Accounting_%5BA00%5D_%28Willoughby_Michael_Gene%29_-_FA17.pdf)<br>
+[✍ Link to Professor's Evaluation Report](https://nbviewer.jupyter.org/github/chkao831/FA17-WI18-FA20_TA-Evaluation-Results_UCSD-Stanford/blob/master/Kao_Chih-Hsuan_Instructor_IA_Evaluation_-_ECON_4_-_Financial_Accounting_%28Willoughby_Michael_Gene%29_-_FA17.pdf)
