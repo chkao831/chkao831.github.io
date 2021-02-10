@@ -1,6 +1,6 @@
 ---
 title: "【Fall 2020】Deep Learning"
-excerpt: "Neural Networks, Convolutional Neural Networks, Sequence Models and more. <br/><img src='/images/deep_learning_ai.png'>"
+excerpt: "Neural Networks, Convolutional Neural Networks, Sequence Models and more. <br/><img src='/images/deep_learning_ai_resized.png'>"
 collection: portfolio
 ---
 
