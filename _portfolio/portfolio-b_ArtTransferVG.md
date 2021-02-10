@@ -6,4 +6,5 @@ collection: portfolio
 
 ### This is a final group project of CS 230: Deep Learning at Stanford. 
 
-### [Our project report and codes are available at GitHub.](https://github.com/chkao831/FA20_DL-Paint-Like-Vincent-VanGogh_StanfordCS230)
+### [Link to Project Report.](https://nbviewer.jupyter.org/github/chkao831/FA20_DL-Paint-Like-Vincent-VanGogh_StanfordCS230/blob/main/Project%20Report.pdf)
+### [Our project codes are also available on GitHub.](https://github.com/chkao831/FA20_DL-Paint-Like-Vincent-VanGogh_StanfordCS230)
