@@ -6,4 +6,4 @@ collection: portfolio
 
 ### This is a final group project of MS&E 448: Big Financial Data and Algorithmic Trading at Stanford. 
 
-### [Our project report and codes are available at GitHub.](https://github.com/chkao831/SP20_Forex-Trading-Final-Project_StanfordMSE448)
+### Our project [report](https://nbviewer.jupyter.org/github/chkao831/SP20_Forex-Trading-Final-Project_StanfordMSE448/blob/master/MSE448_SP20Group6_ForexTrading.pdf) and [codes](https://github.com/chkao831/SP20_Forex-Trading-Final-Project_StanfordMSE448) are available at GitHub.
