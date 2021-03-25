@@ -5,6 +5,8 @@ collection: portfolio
 ---
 In this report, we will summary the major findings by Bai and Ng (2019), and apply the rank-regularized approximate factor models to a real-world dataset. For the theoretical part, we will first describe the problem notations and settings. Then we will present two classical estimations of approximate factor models without regularization. Next we will discuss the rank minimization in broader machine learning literature. Finally, we will combine the arguments from the previous two parts and estimate the approximate factor model with the rank regularization.
 
-### [ARIMA and GARCH](https://github.com/chkao831/WI21_Financial-Statistics_StanfordMSnE349/blob/main/HW1/README.pdf)
-### [Parameter Estimations of SDEs](https://github.com/chkao831/WI21_Financial-Statistics_StanfordMSnE349/blob/main/HW2/README.pdf)
-### [ML in Finance using scikit-learn](https://github.com/chkao831/WI21_Financial-Statistics_StanfordMSnE349/blob/main/HW4/README.pdf)
+### [ARIMA and GARCH](https://nbviewer.jupyter.org/github/chkao831/WI21_Financial-Statistics_StanfordMSnE349/blob/main/HW1/README.pdf)
+### [Parameter Estimations of SDEs](https://nbviewer.jupyter.org/github/chkao831/WI21_Financial-Statistics_StanfordMSnE349/blob/main/HW2/README.pdf)
+### [ML in Finance using scikit-learn](https://nbviewer.jupyter.org/github/chkao831/WI21_Financial-Statistics_StanfordMSnE349/blob/main/HW4/README.pdf)
+
+#### [Link to Complete Repo](https://github.com/chkao831/WI21_Financial-Statistics_StanfordMSnE349)
