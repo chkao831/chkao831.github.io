@@ -10,12 +10,13 @@ author_profile: true
 ### M.S. in Computational and Mathematical Engineering
 [All course descriptions could be found at Stanford Bulletin](https://explorecourses.stanford.edu)
 > 2020-21
-* **CME 241** Reinforcement Learning for Stochastic Control Problems in Finance *[In Progress]* <br> 
+* **CME 241** Reinforcement Learning for Stochastic Control Problems in Finance <br> 
+* **CME 291** Master's Research *[In Progress]* <br>
 * **CME 303** Partial Differential Equations of Applied Mathematics <br>
-* **CS 224N** Natural Language Processing with Deep Learning *[In Progress]* <br>
+* **CS 224N** Natural Language Processing with Deep Learning <br>
 * **CS 230** Deep Learning <br>
 * **STATS 207** Introduction to Time Series Analysis <br>
-* **MS&E 349** Financial Statistics *[In Progress]* <br> 
+* **MS&E 349** Financial Statistics <br> 
 
 > 2019-20
 * **CME 211** Software Development for Scientists and Engineers <br>
