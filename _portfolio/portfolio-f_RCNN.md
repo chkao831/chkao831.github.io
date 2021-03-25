@@ -7,5 +7,5 @@ collection: portfolio
 Financial news releases and time series are important data sources to predict market directions and movements. The existing forecasting methods mostly work with each input independently. With increasing computational capabilities and artificial intelligence techniques nowadays, we could combine the predicting power of both sentiment analysis and quantitative modelling. In this project, we utilize informa- tion from financial news headlines and technical indicators to extend the ability of predicting short-term equity market movements, achieving higher accuracies than a single source system, obtaining comparable results to the state-of-the-art recurrent-convolutional models that are designed for such tasks, further coming up with a novel approach in refining the baseline model architecture.
 
 
-### [Final Report](https://github.com/chkao831/WI21_Natural-Language-Processing-with-Deep-Learning_StanfordCS224N/tree/main/Project-RCNN)
+### [Final Report](https://nbviewer.jupyter.org/github/chkao831/WI21_Natural-Language-Processing-with-Deep-Learning_StanfordCS224N/blob/main/Project-RCNN/CS224N_FinalProjectReport_RCNN_submission.pdf)
 
