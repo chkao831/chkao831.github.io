@@ -1,5 +1,5 @@
 ---
-title: "【Winter 2021】Rank Regularized Estimation Of Approximate Factor Models"
+title: "【Winter 2021】Rank Regularized Estimation of Approximate Factor Models"
 excerpt: "An estimation for large-dimensional factor models with application of the rank-regularized approximate factor models to a real-world dataset. <br/><img src='/images/factormodelling.png'>"
 collection: portfolio
 ---
