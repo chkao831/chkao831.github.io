@@ -1,6 +1,6 @@
 ---
 title: "【Winter 2021】NLP Final Project -- Using Recurrent Convolutional Neural Network (RCNN) to Predict S&P 500 Movements"
-excerpt: "Implementation of the recurrent convolutional neural network (RCNN) model to predict intraday directional-movements in financial market. <br/><img src='/images/1_cs224n.png'>"
+excerpt: "Implementation of the recurrent convolutional neural network (RCNN) model to predict intraday directional-movements in financial market. <br/><img src='/images/RCNN.png'>"
 collection: portfolio
 ---
 
