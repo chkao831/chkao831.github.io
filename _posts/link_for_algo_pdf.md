@@ -1,11 +1,9 @@
 ---
-title: 'Sample Blog Post'
-date: 2020-08-31
-permalink: /posts/2020/08/31/blog-post-1/
-tags:
-  - tag1
-  - tag2
+title: 'Links for Algo Learning Repo'
+date: 2022-09-16
+permalink: /posts/2022/09/16/algo-links/
 ---
 
-[pdf](https://chkao831.github.io/files/algo/Some_complexity_analyses.pdf)
+- [Some Complexity Analyses](https://chkao831.github.io/files/algo/Some_complexity_analyses.pdf)
+- [Stack vs. Heap](https://chkao831.github.io/files/algo/StackVSHeap.pdf)
 
