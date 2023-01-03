@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carolyn Kao"
 title_separator          : "-"
 name                     : &name "Carolyn Kao"
-description              : &description "MS Candidate in Computational and Mathematical Engineering at Stanford University"
+description              : &description "Data Scientist at TSMC"
 url                      : https://chkao831.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chkao831.github.io"
