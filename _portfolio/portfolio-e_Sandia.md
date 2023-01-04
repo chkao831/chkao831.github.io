@@ -1,6 +1,6 @@
 ---
 title: "【Spring 2021】Independent Project -- Automated Parameter Tuning for Land Ice Simulations"
-excerpt: "Our team focused on building a framework for each type of data to facilitate the automated parameter tuning for ice sheet simulations of Earth’s polar ice sheets. <br/><img src='/images/Sandia.png' width='300'>"
+excerpt: "Our team focused on building a framework for each type of data to facilitate the automated parameter tuning for ice sheet simulations of Earth’s polar ice sheets. <br/><img src='/images/Sandia.png' width='500'>"
 collection: portfolio
 ---
 
