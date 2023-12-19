@@ -16,5 +16,6 @@ TBC
 Sub-topics
 ------
 <img src='https://github.com/chkao831/11-2023_StockPricePrediction_PoTaggle/blob/main/output_hillClimbing.jpg' width="70%" height="auto">
+repo: https://github.com/chkao831/11-2023_StockPricePrediction_PoTaggle/tree/main
 
 TBC
