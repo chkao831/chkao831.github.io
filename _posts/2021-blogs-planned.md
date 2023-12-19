@@ -1,0 +1,18 @@
+---
+title: '2021-blogs-planned'
+date: 2021-09-01
+permalink: /posts/2021/09/blogs/
+tags:
+  - ml
+---
+
+- DOE
+- probabilistic output (classfication task)
+- high-dimensional parameter tuning
+- Random Forest parameter screening
+- BoxCox and Log on X for extrememly big data
+- Multimodel recipe search (optimization)
+  - scipy minimize
+  - subsystem
+  - interpolation
+  - discrete search
