@@ -8,4 +8,4 @@ date: 2020-08-18
 location: "Stanford, CA"
 ---
 
-On Aug 18 2020, I served as the TA for [ICME R Programming Workshop](https://icme.stanford.edu/events/icme-online-summer-workshops-2020), which was taught by [Professor Andreas Santucci](http://web.stanford.edu/~santucci/). 
+On Aug 18 2020, I served as the TA for [ICME R Programming Workshop](https://icme.stanford.edu/events/icme-online-summer-workshops-2020), which was taught by [Professor Andreas Santucci](https://scholar.google.com/citations?user=lqqXOvkAAAAJ&hl=en). 
