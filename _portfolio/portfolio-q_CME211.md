@@ -6,4 +6,4 @@ collection: portfolio
 
 ### [Assignment prompts with corresponding codes & writeups are available at GitHub.](https://github.com/chkao831/FA19_Software-Development-for-Scientists-and-Engineers_StanfordCME211)
 
-### [Link to the Final Project README (PDF).](https://nbviewer.jupyter.org/github/chkao831/FA19_Software-Development-for-Scientists-and-Engineers_StanfordCME211/blob/master/project/writeup.pdf)
+### [Link to the Final Project README (PDF).](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/chkao831/FA19_Software-Development-for-Scientists-and-Engineers_StanfordCME211/master/project/writeup.pdf){:target="_blank"}
